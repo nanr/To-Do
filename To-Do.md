@@ -2,9 +2,14 @@
 * Sep 24 - DOE abstract due
 * Oct 2  - Scratch_old gone
 
-## Current runs
-* 
+***
 
+## Current runs
+* beta tests with HF output:
+* * f.e13.FAMIPC5CN.ne30_ne30.beta02.t[5,6,7] **STATUS** Running
+
+
+***
 
 ## Webpages:
 * [Timing Tables](https://docs.google.com/spreadsheets/d/1bQgRzWvqVqA1YU_lHj5l6h6HF7aBdLhfLbNZkc8K_O0/edit#gid=0)
